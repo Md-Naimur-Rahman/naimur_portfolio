@@ -1,1 +1,1 @@
-# naimur_portfolio
+# portfolio project for practicing HTML, CSS
